@@ -1,0 +1,14 @@
+{
+  "name": "gitstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Comfort Oladeji",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.7.3"
+  }
+}
