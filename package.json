@@ -9,6 +9,7 @@
   "author": "Comfort Oladeji",
   "license": "ISC",
   "dependencies": {
+    "@faker-js/faker": "^8.4.1",
     "mocha": "^10.7.3"
   }
 }
